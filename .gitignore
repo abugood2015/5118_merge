@@ -1,0 +1,13 @@
+*~
+*.swp
+*.o
+*.pyc
+env/
+__pycache__/
+logs/
+log/
+todo.txt
+.idea
+src/.fuse_hidden*
+data/
+output/
